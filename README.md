@@ -1,4 +1,4 @@
-In this project, let's build a **Stopwatch** by applying the concepts we have learned till now.
+[Click for demo](https://omkarstopwatch.ccbp.tech/)
 
 ### Refer to the image below:
 
